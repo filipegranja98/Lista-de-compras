@@ -5,7 +5,6 @@ const btAdicionar = document.getElementById("btAdicionar");
 const btLimpar = document.getElementById("btLimpar");
 const lista = document.getElementById("lista");
 
-
 let listaItems = [];
 
 const redesenhaLista = (lista, listaItems) => {
